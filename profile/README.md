@@ -21,15 +21,11 @@
 - 하루에 2번 네이버 뉴스 데이터를 크롤링 하여 주제별 뉴스 제공 및 한 줄 요약 서비스를 제공한다.
 <img src="https://user-images.githubusercontent.com/76774056/210547659-7c4ec146-a5b0-4628-8567-8449d66cc846.png">
 
-
-<br />
-
 # 주요 화면
 
 ### 오늘의 뉴스
 <img src="https://user-images.githubusercontent.com/76774056/210544392-20d5031f-dba9-4985-be59-8ebbcdc173d6.png">
-
-<br /><br />
+<br />
 
 ### 오늘의 상품 
 <img src="https://user-images.githubusercontent.com/76774056/210545558-5fe161e4-cf43-4e98-be0f-a8d51c2b1538.png">
@@ -37,7 +33,7 @@
 
 ### 시각장애인을 고려한 기능
 <img src="https://user-images.githubusercontent.com/76774056/210545595-2aacfc91-cf3e-4f7d-a751-dc9ed4200b3a.png">
-<img width="623" alt="스크린샷 2023-01-04 오후 8 37 29" src="https://user-images.githubusercontent.com/76774056/210547115-8b9367f6-c1bf-4cca-9751-050b4e8ee53f.png">
+<img src="https://user-images.githubusercontent.com/76774056/210547115-8b9367f6-c1bf-4cca-9751-050b4e8ee53f.png">
 
 # 서비스 아키텍처 및 ERD Diagram
 <img src="https://user-images.githubusercontent.com/76774056/210544251-414cab20-2c6f-4a92-8e40-20783c12dd5a.png">
